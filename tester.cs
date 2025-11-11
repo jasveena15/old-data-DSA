@@ -15,6 +15,8 @@ namespace Vector
             return true;
         }
 
+
+
         static void Main(string[] args)
         {
             Vector<int> vector = null;
@@ -214,3 +216,4 @@ namespace Vector
         }
     }
 }
+
